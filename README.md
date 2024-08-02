@@ -1,4 +1,8 @@
 # X68000ディスプレイ用っぽい5cmスピーカーケース
+![オフィスグレー](https://github.com/user-attachments/assets/444e47f5-754f-42d8-b064-082c578be5f6)
+
+![ブラック](https://github.com/user-attachments/assets/bf3b8e7f-767e-4851-a9bd-a6a236b8ebb5)
+
 
 5cmスピーカー用のケースです。<br>
 ヤフオクの写真を参考に雰囲気だけ再現したものですので、過度な期待は禁物です。<br>
